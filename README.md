@@ -70,12 +70,6 @@ This project aims to predict customer churn for a telecommunications company usi
 ## Conclusion
 This project provides a comprehensive approach to predicting customer churn using machine learning. Among the models evaluated, LightGBM showed the highest performance with an accuracy of 84.0% and an ROC-AUC of 0.89, making it the chosen model for deployment.
 
-## Author
-[Your Name]
-
-## License
-This project is licensed under the MIT License.
-
 ---
 
 ### Türkçe Versiyon
@@ -151,9 +145,3 @@ Bu proje, bir telekomünikasyon şirketi için müşteri terkini tahmin etmeyi a
 
 ## Sonuç
 Bu proje, makine öğrenimini kullanarak müşteri terkini tahmin etmek için kapsamlı bir yaklaşım sunmaktadır. Değerlendirilen modeller arasında, LightGBM en yüksek performansı %84.0 doğruluk ve 0.89 ROC-AUC ile göstererek dağıtım için seçilen model olmuştur.
-
-## Yazar
-[Your Name]
-
-## Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır.
